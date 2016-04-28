@@ -13,7 +13,7 @@ For that reason they must be served over HTTPS.
 
 To try this out:
 
-(Only available locally for now, because Github Pages are not served over HTTPS. [See the error for yourself](simoneduca.com/prefetch)):
+(Only available locally for now, because Github Pages are not served over HTTPS. [See the error for yourself](http://www.simoneduca.com/prefetch)):
 
 1. Clone the repo and run it locally
 
