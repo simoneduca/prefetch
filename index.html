@@ -23,26 +23,8 @@ limitations under the License.
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Service Worker Sample: Pre-fetching Resources During Registration</title>
+    <title>Pre-fetching Resources During Registration</title>
 
-
-    <!-- Add to homescreen for Safari on iOS -->
-    <meta name="apple-mobile-web-app-title" content="Service Worker Sample: Pre-fetching Resources During Registration">
-
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-
-    <!-- Tile icon for Win8 (144x144 + tile color) -->
-    <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
-    <meta name="msapplication-TileColor" content="#3372DF">
-
-    <script>
-      // Service workers require HTTPS (http://goo.gl/lq4gCo). If we're running on a real web server
-      // (as opposed to localhost on a custom port, which is whitelisted), then change the protocol to HTTPS.
-      if ((!location.port || location.port == "80") && location.protocol != 'https:') {
-        location.protocol = 'https:';
-      }
-    </script>
   </head>
 
   <body>
