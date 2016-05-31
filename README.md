@@ -25,4 +25,6 @@ To try this out:
 
 5. Party.
 
-Disclaimer: I lifted most of the code from [here](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker/prefetch). 
+Disclaimer: I lifted most of the code from [here](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker/prefetch).
+
+[![Feature Requests](http://feathub.com/simoneduca/prefetch?format=svg)](http://feathub.com/simoneduca/prefetch)
